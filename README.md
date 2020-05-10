@@ -23,4 +23,14 @@
 
   * Sorting의 예제  
 
+### 3. Builder  
+#### [builder](/patterns/builder.md)  
+* 생성자를 private으로 한 후, inner class인 Builder 클래스를 노출한다.  
+* 이 builder를 통해 method chaining으로 보기 좋게 생성자의 매개변수를 지정하여, 객체를 생성하는 방식.  
+
+### 4. Singleton  
+
+
+
+
   
