@@ -28,6 +28,12 @@
 * 생성자를 private으로 한 후, inner class인 Builder 클래스를 노출한다.  
 * 이 builder를 통해 method chaining으로 보기 좋게 생성자의 매개변수를 지정하여, 객체를 생성하는 방식.  
 
+### 4. Decorator  
+#### [데코레이터](https://github.com/horoyoiiv/design-pattern/blob/master/docs/deco.md)  
+* 데코레이터 패턴은 `상속`이 아닌, **구성**을 통하여 즉, Wrapper 클래스를 통하여 기능을 동적으로 확장할 수 있는 패턴이다.  
+
+
+
 ### 4. Singleton  
 
 
